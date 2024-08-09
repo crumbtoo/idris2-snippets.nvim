@@ -1,0 +1,7 @@
+#+title: Snippets for Idris 2
+
+A collection of Luasnip snippets for Idris2. Consider it a port of
+[[https://github.com/mrcjkb/haskell-snippets.nvim][haskell-snippets.nvim]]. Many
+of the most useful features are missing, due to lack of a tree-sitter parser for
+Idris. Much to do!
+
